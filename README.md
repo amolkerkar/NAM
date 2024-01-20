@@ -27,3 +27,4 @@ Several helper functions are provided for plotting histograms and visualizing fe
 
 ### Results
 The code outputs visualizations and metrics to interpret the NAM model's performance on the Housing dataset
+![image](https://github.com/amolkerkar/Neural-Additive-Models/assets/81116875/49128c22-0b59-421e-b1b8-787caa416474)
